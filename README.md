@@ -21,7 +21,7 @@ Meu nome é Fernanda Guimarães, sou uma desenvolvedora front-end, com experiên
 - [Mizuno](https://www.mizuno.com.br/)
 
 ## 📚 Educação
-- **Bacharelo Interdiciplinar em Ciência e Tecnologia**: Universidade do Estado de Santa Catarina/UDESC (2027)
+- **Bacharelo Interdiciplinar em Ciência e Tecnologia**: Universidade do Estado de Santa Catarina/UDESC (2026)
 
 ## 🔗 Contato
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-guimarães-santana)
